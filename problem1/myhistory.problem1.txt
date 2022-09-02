@@ -1,0 +1,156 @@
+    1  exit
+    2  hostname
+    3  pwd
+    4  ls
+    5  ls -l
+    6  cd ~
+    7  pwd
+    8  exit
+    9  pwd
+   10  mkdir TRGN514
+   11  cd TRGN514/
+   12  mkdir Activity_1A
+   13  ls
+   14  cd Activity_1A/
+   15  ls
+   16  vi
+   17  quit
+   18  q
+   19  ~/
+   20  cd home
+   21  cd /home
+   22  mkdir 
+   23  mkdir bin
+   24  cd bambat-F22
+   25  mkdir bin
+   26  mkdir scripts
+   27  mkdir projects
+   28  ls
+   29  resetpassword
+   30  $PATH
+   31  ~home
+   32  ~/home
+   33  ls
+   34  resetpassword
+   35  sudo passwd root
+   36  passwd
+   37  ls
+   38  cd TRGN514/
+   39  ls
+   40  cd Activity_1A/
+   41  vi
+   42  vi heartrates.txt
+   43  exit
+   44  ls
+   45  cd TRGN514/
+   46  cd Activity_1A/
+   47  ls
+   48  $PATH
+   49  vim Activity_1A
+   50  ls
+   51  cd TRGN514
+   52  vi heartrates.txt
+   53  vi heartrates.txt 
+   54  exit
+   55  ls -la
+   56  ls
+   57  mkdir example_class
+   58  cd example_class/
+   59  wget http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens/Homo_sapiens.GRCh37.75.gtf.gz
+   60  gunzip Homo_sapiens.GRCh37.75.gtf.gz
+   61  ls
+   62  less Homo_sapiens.GRCh37.75.gtf.gz
+   63  gunship Homo_sapiens.GRCh37.75.gtf
+   64  echo $PATH
+   65  ls
+   66  cd TRGN514/
+   67  ls
+   68  mkdir Activity_1B
+   69  cd Activity_1B
+   70  wget http://ecg.mit.edu/time-series/hr.11839
+   71  wget http://ecg.mit.edu/time-series/hr.7257
+   72  wget http://ecg.mit.edu/time-series/hr.207
+   73  wget http://ecg.mit.edu/time-series/hr.237
+   74  ls
+   75  mv hr.11839 series1_1800
+   76  mv hr.7257 series2_1800
+   77  mv hr.207 series3_950
+   78  mv hr.237 series4_950
+   79  ls
+   80  vi series_halfseconds_1800
+   81  vi series1_1800 
+   82  vi series2_1800 
+   83  vi series3_950 
+   84  vi series4_950 
+   85  ls
+   86  paste series1_1800 series2_1800 series3_950 series4_950 > series_all_merged.txt
+   87  ls
+   88  vi series_all_merged.txt 
+   89  exit
+   90  ls
+   91  cd TRGN514/
+   92  ls
+   93  cd Activity_1B
+   94  ls
+   95  exit
+   96  ls
+   97  cd TRGN514/
+   98  ls
+   99  cd Activity_1B
+  100  ls
+  101  $PATH
+  102  exit
+  103  ls
+  104  cd example_class/
+  105  cd ~
+  106  ls
+  107  ls -la
+  108  top
+  109  echo "Hello"
+  110  ls
+  111  mkdir assignments
+  112  ls
+  113  cd assignments/
+  114  git clone https://github.com/bigyambat/trgn510_assignment1.git
+  115  ls
+  116  cd trgn510_assignment1/
+  117  ls
+  118  vim README.md 
+  119  git add . -A
+  120  git commit -m "First commit"
+  121  vim README.md 
+  122  git add . -A
+  123  git commit -m "First commit"
+  124    git config --global user.email "bigyambat@gmail.com"m
+  125    git config --global user.name "Bigy Ambate"
+  126  git push
+  127  git add . -A
+  128  git commit -m "First commit"
+  129  git push
+  130  ls
+  131  cd trgn_assigment1
+  132  cd ~
+  133  ls
+  134  cd trgn510_assignment1
+  135  ls
+  136  cd assignments/
+  137  ls
+  138  cd trgn510_assignment1/
+  139  mkdir problem1
+  140  history
+  141  ls
+  142  cd problem1/
+  143  vim myhistory.txt
+  144  ls
+  145  cd problem1
+  146  cd /problem1
+  147  cd ~
+  148  ls
+  149  cd assignments/
+  150  ls
+  151  cd trgn510_assignment1/
+  152  ls
+  153  cd problem1/
+  154  ls
+  155  history
+  156  history > myhistory.problem1.txt

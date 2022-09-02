@@ -1,0 +1,159 @@
+    1  cd trgn510_assignment1/
+    2  ls
+    3  cd problem1/
+    4  ls
+    5  vim myhistory.problem1.txt 
+    6  ls
+    7  cp /scratch/data/bashrc ~/assignments/trgn_assignment1/problem2/.
+    8  ls
+    9  cd assignments/
+   10  cd trgn510_assignment1/
+   11  ls
+   12  mkdir problem2
+   13  ls
+   14  cp /scratch/data/bashrc ~/assignments/trgn_assignment1/problem2/.
+   15  cd ~
+   16  ls
+   17  cd problem2/
+   18  ls
+   19  cd ~
+   20  ls
+   21  rmdir problem2
+   22  ls
+   23  cp /scratch/data/bashrc ~/assignments/trgn510_assignment1/problem2/.
+   24  ls
+   25  cd assignments/
+   26  cd trgn510_assignment1/
+   27  cd problem2
+   28  ls
+   29  exit
+   30  ls
+   31  cd assignments/trgn510_assignment1/problem2
+   32  ls
+   33  vim bashrc 
+   34  ls
+   35  mv bashrc bashrc_sample
+   36  ls
+   37  vim bashrc_sample
+   38  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+   39  ls
+   40  vim bashrc_sample 
+   41  source ~/assignments/trgn_assignment1/problem2/bashrc_sample
+   42  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+   43  cd !
+   44  cd ~
+   45  ls
+   46   rm bashrc
+   47  ls
+   48  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+   49  ls
+   50  exit
+   51  cd assignments/
+   52  cd ~
+   53  cd /home
+   54  ls
+   55  cd data
+   56  ls
+   57  cd ~
+   58  ls
+   59  cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+   60  ls
+   61  cd assignments/
+   62  cd trgn510_assignment1/
+   63  cd problem2
+   64  ls
+   65  vim
+   66   cp vimrc ~/.vimrc
+   67  cd ~
+   68  ls
+   69  cd assignments/trgn510_assignment1/problem2
+   70  ls
+   71   vim vimrc
+   72  cd ..
+   73  ls
+   74  mkdir problem 3
+   75  cd problem 3
+   76  ls -l
+   77  cd ..
+   78  ls
+   79  ls -1
+   80   cd problem 3
+   81  ls -l
+   82  cd ..
+   83  ls
+   84  rmdir 3
+   85  rmdir problem
+   86  ls
+   87  cd ~
+   88  mkdir ~/assignments/trgn510_assignment1/problem 3/
+   89  cd ~/assignments/trgn510_assignment1/
+   90  ls
+   91  cd problem 
+   92  ls
+   93  cd ..
+   94  ls -1
+   95  ls -l
+   96  ls -1
+   97  ls 
+   98  ls -1
+   99  cd problem 3
+  100  cd ..
+  101  rm problem 3
+  102  rmdir problem 3
+  103  rm dir problem
+  104  rmdir problem
+  105  ls
+  106  ls- -l
+  107  ls -l
+  108  mkdir problem 3
+  109  ls
+  110  rmdir problem 3
+  111  ls
+  112  cd ..
+  113  cd ~
+  114  mkdir ~/assignments/trgn510_assignment1/problem 3
+  115  cd ~/assignments/trgn510_assignment1/
+  116  ls
+  117   rmdir problem
+  118  ls
+  119  rmdir 3
+  120  ls
+  121  ls -l
+  122  mk dir problem 3
+  123  mkdir problem 3
+  124  ls
+  125  rmdir 3
+  126  rmdir problem
+  127  ls
+  128  mkdir problem\ 3
+  129  ls
+  130  ls -l
+  131   cd problem 3
+  132   cd ..
+  133  cd problem 3
+  134  ls
+  135  cd ..
+  136  cd problem \ 3
+  137  cd problem\ 3
+  138  cd ..
+  139  cd problem \3
+  140  cd ..
+  141  cd problem 3
+  142  cd ..
+  143  ls
+  144  cd problem 3 
+  145  history > My History.txt
+  146  ls
+  147  del My
+  148  rm My
+  149  ls
+  150  cd ..
+  151  ls
+  152  cd problem/ 3
+  153  cd ..
+  154  cd "problem 3"
+  155  history > My History.txt
+  156  ls
+  157  rm My
+  158  ls
+  159  history > "My History".txt

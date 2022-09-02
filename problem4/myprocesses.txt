@@ -1,0 +1,3 @@
+root     230427   2370  0 09:01 ?        00:00:00 sshd: bambat-F22 [priv]
+bambat-+ 230443 230427  0 09:01 ?        00:00:00 sshd: bambat-F22@pts/0
+bambat-+ 233605 230444  0 09:54 pts/0    00:00:00 grep --color=auto bambat-F22
